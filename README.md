@@ -2,6 +2,8 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-4c8lad)
 
+### [Match Beginning String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns)
+
 ## PROBLEM EXPLANATION
 Use the caret character in a regex to find `Cal` only in the beginning of the string `rickyAndCal`.
 
